@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeSpot", "LifeSpot\LifeSpot.csproj", "{EB3157F0-43E0-46C7-9771-F7B93A68A836}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8C45A52A-734F-4072-98F0-CA70A02261AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAC94439-84FF-42CE-A216-B4884E414B1C}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3157F0-43E0-46C7-9771-F7B93A68A836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3157F0-43E0-46C7-9771-F7B93A68A836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3157F0-43E0-46C7-9771-F7B93A68A836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3157F0-43E0-46C7-9771-F7B93A68A836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB3157F0-43E0-46C7-9771-F7B93A68A836} = {8C45A52A-734F-4072-98F0-CA70A02261AC}
+	EndGlobalSection
+EndGlobal
