@@ -16,8 +16,14 @@ header, footer, body, .video-container {
     color: #b8b8b8;
     padding-left: 10%;
 }
-
     .navbar p:hover {
+        color: #dbdbdb;
+    }
+
+.navbar a {
+    color: #b8b8b8;
+}
+    .navbar a:hover {
         color: #dbdbdb;
     }
 
@@ -32,13 +38,12 @@ header {
 }
 
 input[type="text"] {
-    padding: 10px;
+    padding: 6px;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 3px;
 }
-
     input[type="text"]:hover {
-        border-color: black;
+        border-color: #121212;
     }
 
 footer {
@@ -65,4 +70,18 @@ aside {
 
 body {
     padding-left: 11%;
+}
+
+.review-container, .review-button {
+    display: inline-block;
+    margin-top: 0.5em;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+.review-text {
+    display: block;
+    margin-top: 0.5em;
+    padding-left: 1%;
+    padding-top: 1%;
 }
