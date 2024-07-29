@@ -68,6 +68,11 @@ aside {
     font-size: large;
 }
 
+button {
+    background-color: #2f332a;
+    color: #121212;
+}
+
 body {
     padding-left: 11%;
 }
